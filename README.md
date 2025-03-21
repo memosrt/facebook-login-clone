@@ -1,6 +1,6 @@
-# facebook-login-clone
+# facebook-login
 
-A responsive clone of Facebook login page using HTML & CSS for computer screen and mobile screen.
+A Facebook login page using HTML & CSS for computer screen and mobile screen.
 
 ### You can see a live demo [here](https://facebook.ashishbhatia.dev/).
 
